@@ -28,7 +28,7 @@ export function inicializarParticulas() {
             },
             rate: {
                 quantity: 1,
-                delay: 5 
+                delay: 0.5 
             },
             size: {
                 width: 100, 
